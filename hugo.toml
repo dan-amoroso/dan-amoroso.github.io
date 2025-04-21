@@ -1,0 +1,22 @@
+baseURL = 'https://deadend.dev/'
+languageCode = 'en-us'
+title = 'dead-end.dev'
+theme = 'PaperMod'
+
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+breadcrumbs = true
+
+[params]
+  subtitle = 'Making sense of things'
+  [params.contact]
+    email = 'dan@deadend.dev'
+
+[[params.menu]]
+name = 'posts'
+url = '/posts'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
