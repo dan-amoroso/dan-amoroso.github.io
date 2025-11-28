@@ -4,6 +4,8 @@ draft = false
 title = 'Dabbling with coding agents? Remember Encapsulation and the Black Box Approach' 
 +++
 
+![wavefunction](./wfc2.png "a wave!")
+
 **TLDR:** AI aided software engineering offers productivity gains but also
 challenges Sosftware Engineers to integrate stochastic AI-generated code while
 keeping projects maintainable. Reinterpreting the classic software engineering
@@ -52,6 +54,8 @@ computer science principle: **Encapsulation**.
 
 ### An aside: wave function collapse
 
+![constrained](./wfc1.png "a constrained wave!")
+
 Wave function collapse is something cool in quantum physics which I don't claim
 to be smart enough to talk about, but also something a bit more reachable in
 procedural generation. Given a universe, a set of rules defining how elements in
@@ -60,8 +64,6 @@ function collapse can fill the universe in a random but **coherent** way. LLMs
 are stochastic machines so randomness is part of the deal.
 
 Do you see where I am going with this? We need to constrain the system.
-
----
 
 ### LLM produced code can get very messy
 
