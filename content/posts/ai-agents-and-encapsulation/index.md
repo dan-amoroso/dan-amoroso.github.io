@@ -7,7 +7,7 @@ title = 'Dabbling with coding agents? Remember Encapsulation'
 ![wavefunction](./wfc2.png "a wave!")
 
 **TLDR:** AI aided software engineering offers productivity gains but also
-challenges Sosftware Engineers to integrate stochastic AI-generated code while
+challenges Software Engineers to integrate stochastic AI-generated code while
 keeping projects maintainable. Reinterpreting the classic software engineering
 principle of **encapsulation**, defining robust, data-oriented module
 **interfaces (fixed points)** and rigorous **unit tests (rules)**, we can treat
