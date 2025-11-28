@@ -1,6 +1,6 @@
 baseURL = 'https://deadend.dev/'
 languageCode = 'en-us'
-title = 'dead-end.dev'
+title = 'Dead End Dev'
 theme = 'PaperMod'
 
 homeCollectionTitle = 'Posts'
