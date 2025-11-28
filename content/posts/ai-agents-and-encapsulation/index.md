@@ -1,7 +1,7 @@
 +++ 
 date = '2025-11-28T10:15:53+01:00' 
 draft = false 
-title = 'Dabbling with coding agents? Remember Encapsulation and the Black Box Approach' 
+title = 'Dabbling with coding agents? Remember Encapsulation' 
 +++
 
 ![wavefunction](./wfc2.png "a wave!")
