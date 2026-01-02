@@ -11,7 +11,7 @@ great for developers and I am not actually trying to doom-bait.
 
 ### It was never about just typing the code
 
-This is now cliche', but also the crux of the matter. A year into working on a
+This is now cliché, but also the crux of the matter. A year into working on a
 side project like it's my job, and having made wide use of AI coding agents, I
 can say I was surprised by the perspective shift this allowed for me.
 
