@@ -1,7 +1,7 @@
 +++
 date = '2025-12-31T13:29:24+07:00'
 draft = false
-title = 'The Developer Is Dead Long Live the Designer'
+title = 'The Developer Is Dead, Long Live the Designer'
 +++
 
 With the advent of coding agents and their improvement, developing software as
