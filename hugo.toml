@@ -9,13 +9,13 @@ homeCollection = 'posts'
 breadcrumbs = true
 
 [params]
-  subtitle = 'Making sense of things'
-  [params.contact]
+  [contact]
     email = 'dan@deadend.dev'
 
 [[params.menu]]
 name = 'posts'
 url = '/posts'
+
 
 [caches]
   [caches.images]
